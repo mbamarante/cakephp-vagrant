@@ -2,7 +2,7 @@ cakephp-vagrant
 ==============
 
 
-Vagrantfile/CakePHP 3.x shell script provisioning.
+Vagrantfile/CakePHP 3.x shell script provisioning. Provides nginx, PHP 7 and MySQL.
 
 ----------
 
