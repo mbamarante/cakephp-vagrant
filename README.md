@@ -2,7 +2,7 @@ cakephp-vagrant
 ==============
 
 
-Vagrantfile/CakePHP 3.x shell script provisioning. Provides nginx, PHP 7 and MySQL.
+Vagrantfile/CakePHP 3.x shell script provisioning [Ubuntu 14.04 / nginx / PHP 7 / MySQL].
 
 ----------
 
@@ -26,7 +26,7 @@ Startup! Your app will be available at http://my-new-app.local/
 Dependencies
 -------------------
 
-[vagrant-hostupdater](https://github.com/cogitatio/vagrant-hostsupdater)  maps your VM IP address to VM hostname to your /etc/hosts.
+[vagrant-hostupdater](https://github.com/cogitatio/vagrant-hostsupdater)  maps pair VM IP address <-> VM hostname to your /etc/hosts.
 
     vagrant plugin install vagrant-hostsupdater
 
